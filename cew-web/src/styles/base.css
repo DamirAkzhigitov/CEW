@@ -1,0 +1,51 @@
+/* Border */
+
+.c-bb {
+    border-bottom: 1px solid;
+}
+.c-bl {
+    border-left: 1px solid;
+}
+.c-br {
+    border-right: 1px solid;
+}
+.c-bt {
+    border-top: 1px solid;
+}
+.c-ba {
+    border: 1px solid;
+}
+/* Paddings */
+
+.c-pa-0 {
+    padding: 0;
+}
+.c-pa-1 {
+    padding: 4px;
+}
+.c-pa-2 {
+    padding: 8px;
+}
+.c-pa-3 {
+    padding: 12px;
+}
+.c-pa-4 {
+    padding: 16px;
+}
+/* Margins  */
+
+.c-ma-0 {
+    margin: 0;
+}
+.c-ma-1 {
+    margin: 4px;
+}
+.c-ma-2 {
+    margin: 8px;
+}
+.c-ma-3 {
+    margin: 12px;
+}
+.c-ma-4 {
+    margin: 16px;
+}
